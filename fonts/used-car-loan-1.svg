@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Layer_1" data-name="Layer 1" viewBox="0 0 156 156">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#ffa236}.prefix__cls-3{fill:#f75d34;stroke:#f75d34;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <circle id="prefix__Oval-2" cx="78" cy="78" r="78" style="isolation:isolate" fill="#ffa236" opacity="0.15"/>
+    <path id="prefix__Rectangle-path" d="M87.28 35.78H89v13.75h-1.72z" class="prefix__cls-2" transform="translate(-12 -12.33)"/>
+    <path id="prefix__Shape" d="M88.14 88.27A16.54 16.54 0 1 0 71.6 71.73a16.56 16.56 0 0 0 16.54 16.54zm0 3a19.54 19.54 0 1 1 19.54-19.54 19.55 19.55 0 0 1-19.54 19.54z" class="prefix__cls-2" transform="translate(-12 -12.33)"/>
+    <path id="prefix__Rectangle-path-2" d="M87.28 25.05H89v4.3h-1.72zm12.89 6h1.72v19.78h-1.72zm0-7.74h1.72v4.3h-1.72zM75.25 36.22H77V50h-1.75zm0-6.87H77v4.29h-1.75z" class="prefix__cls-2" data-name="Rectangle-path" transform="translate(-12 -12.33)"/>
+    <g id="prefix__Group-13">
+        <path id="prefix__Rectangle-5" d="M57.46 120.87a2.9 2.9 0 0 0-2.9 2.9v17.38a2.9 2.9 0 0 0 2.9 2.9h63.75a2.89 2.89 0 0 0 2.89-2.9v-17.38a2.89 2.89 0 0 0-2.89-2.9zm0-2.9h63.75a5.8 5.8 0 0 1 5.79 5.8v17.38a5.8 5.8 0 0 1-5.79 5.8H57.46a5.8 5.8 0 0 1-5.79-5.8v-17.38a5.8 5.8 0 0 1 5.79-5.77z" class="prefix__cls-3" transform="translate(-12 -12.33)"/>
+        <path id="prefix__Rectangle-5-2" d="M112.62 106.23a8.7 8.7 0 0 0-8.14-5.64H74.19a8.69 8.69 0 0 0-8.14 5.64L61.64 118H117zm-38.43-8.54h30.29a11.59 11.59 0 0 1 10.85 7.52l5.88 15.66H57.46l5.87-15.66a11.6 11.6 0 0 1 10.86-7.52z" class="prefix__cls-3" data-name="Rectangle-5" transform="translate(-12 -12.33)"/>
+        <g id="prefix__Group-11">
+            <path id="prefix__Rectangle-6" d="M60.36 147v2.9a2.89 2.89 0 0 0 2.9 2.89h2.89a2.89 2.89 0 0 0 2.9-2.89V147zm-2.9-2.9H72v5.8a5.8 5.8 0 0 1-5.8 5.79h-2.94a5.8 5.8 0 0 1-5.8-5.79z" class="prefix__cls-3" transform="translate(-12 -12.33)"/>
+            <path id="prefix__Rectangle-6-2" d="M109.62 147v2.9a2.89 2.89 0 0 0 2.89 2.89h2.9a2.89 2.89 0 0 0 2.9-2.89V147zm-2.9-2.9h14.49v5.8a5.8 5.8 0 0 1-5.8 5.79h-2.9a5.79 5.79 0 0 1-5.79-5.79z" class="prefix__cls-3" data-name="Rectangle-6" transform="translate(-12 -12.33)"/>
+        </g>
+        <g id="prefix__Group-12">
+            <circle id="prefix__Oval-4" cx="99.06" cy="121.58" r="4.35" class="prefix__cls-3"/>
+            <circle id="prefix__Oval-4-Copy" cx="55.6" cy="121.58" r="4.35" class="prefix__cls-3"/>
+        </g>
+    </g>
+    <path d="M86.45 63.73a3.9 3.9 0 0 1 0 5.17 3.88 3.88 0 0 1-5 0 3.9 3.9 0 0 1 0-5.17 3.85 3.85 0 0 1 5 0zm7.42-.73l-8.64 15.57h-3L90.88 63zm-11 4.52a1.22 1.22 0 0 0 1 .45 1.31 1.31 0 0 0 1-.45 1.72 1.72 0 0 0 .4-1.2 1.76 1.76 0 0 0-.4-1.2 1.31 1.31 0 0 0-1-.45 1.22 1.22 0 0 0-1 .45 1.85 1.85 0 0 0-.38 1.2 1.82 1.82 0 0 0 .41 1.19zm11.81 5.15a3.53 3.53 0 0 1-2.51 6.11 3.51 3.51 0 0 1-2.52-.94 3.9 3.9 0 0 1 0-5.17 3.87 3.87 0 0 1 5 0zm-3.54 3.81a1.24 1.24 0 0 0 1 .45 1.31 1.31 0 0 0 1-.45 2 2 0 0 0 0-2.43 1.29 1.29 0 0 0-1-.47 1.24 1.24 0 0 0-1 .45 1.88 1.88 0 0 0-.38 1.23 1.85 1.85 0 0 0 .41 1.21z" class="prefix__cls-2" transform="translate(-12 -12.33)"/>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="20px" viewBox="0 0 26 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <g id="online-booking" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Online-booking-Benefits" transform="translate(-48.000000, -410.000000)" fill="#007FFF">
+            <g id="Group-51" transform="translate(28.000000, 109.000000)">
+                <g id="Group-104">
+                    <g id="Group">
+                        <g id="Group-16" transform="translate(20.000000, 301.000000)">
+                            <path d="M2,8 C1.44771525,8 1,8.44771525 1,9 L1,15 C1,15.5522847 1.44771525,16 2,16 L24,16 C24.5522847,16 25,15.5522847 25,15 L25,9 C25,8.44771525 24.5522847,8 24,8 L2,8 Z M2,7 L24,7 C25.1045695,7 26,7.8954305 26,9 L26,15 C26,16.1045695 25.1045695,17 24,17 L2,17 C0.8954305,17 0,16.1045695 0,15 L0,9 C0,7.8954305 0.8954305,7 2,7 Z" id="Rectangle-5" fill-rule="nonzero"></path>
+                            <path d="M21.0369857,2.94662968 C20.597894,1.7757185 19.4785318,1 18.2279981,1 L7.77200187,1 C6.52146819,1 5.40210603,1.7757185 4.96301434,2.94662968 L3.44300047,7 L22.5569995,7 L21.0369857,2.94662968 Z M7.77200187,4.4408921e-16 L18.2279981,4.4408921e-16 C19.8953764,4.4408921e-16 21.3878593,1.03429133 21.9733148,2.59550623 L24,8 L2,8 L4.02668516,2.59550623 C4.61214075,1.03429133 6.10462363,4.4408921e-16 7.77200187,4.4408921e-16 Z" id="Rectangle-5" fill-rule="nonzero"></path>
+                            <g id="Group-11" transform="translate(2.000000, 16.000000)" fill-rule="nonzero">
+                                <path d="M1,1 L1,2 C1,2.55228475 1.44771525,3 2,3 L3,3 C3.55228475,3 4,2.55228475 4,2 L4,1 L1,1 Z M0,0 L5,0 L5,2 C5,3.1045695 4.1045695,4 3,4 L2,4 C0.8954305,4 0,3.1045695 0,2 L0,0 Z" id="Rectangle-6"></path>
+                                <path d="M18,1 L18,2 C18,2.55228475 18.4477153,3 19,3 L20,3 C20.5522847,3 21,2.55228475 21,2 L21,1 L18,1 Z M17,0 L22,0 L22,2 C22,3.1045695 21.1045695,4 20,4 L19,4 C17.8954305,4 17,3.1045695 17,2 L17,0 Z" id="Rectangle-6"></path>
+                            </g>
+                            <g id="Group-12" transform="translate(4.000000, 11.000000)">
+                                <circle id="Oval-4" cx="16.5" cy="1.5" r="1.5"></circle>
+                                <circle id="Oval-4-Copy" cx="1.5" cy="1.5" r="1.5"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

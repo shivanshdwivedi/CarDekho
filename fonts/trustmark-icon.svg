@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="76px" viewBox="0 0 81 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 65</title>
+    <defs>
+        <polygon id="path-1" points="0.19407882 0.181913171 54.9844727 0.181913171 54.9844727 25.9170732 0.19407882 25.9170732"></polygon>
+    </defs>
+    <g id="new" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-65">
+            <polygon id="Fill-1" fill="#112967" points="49.9263158 43.4425429 52.9533619 53 79.9263158 32.5123596 76.7367231 23"></polygon>
+            <polygon id="Fill-2" fill="#0099FF" points="34.9263158 0 60.0723158 76 67.9263158 70.1015342 44.7315789 0"></polygon>
+            <g id="Group-20" transform="translate(12.926316, 50.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-19"></g>
+                <polygon id="Fill-18" fill="#112967" mask="url(#mask-2)" points="54.9844727 20.0485839 47.3266268 25.9172583 27.5889678 11.548401 7.85192469 25.9172583 0.19407882 20.0485839 27.5889678 0.181913171"></polygon>
+            </g>
+            <polygon id="Fill-21" fill="#112967" points="30.9263158 42.5691057 27.9441524 52 20.7562939 46.6819703 20.7562939 46.6787821 0.926315789 32 16.6441629 32 23.7603619 37.2670174"></polygon>
+            <polygon id="Fill-23" fill="#112967" points="80.9263158 33 46.4599629 33 34.8832173 32.9969533 0.926315789 32.9969533 3.90323758 24 37.8635541 24 43.4799366 24.0030467 77.6979281 24.0030467"></polygon>
+            <polygon id="Fill-25" fill="#0099FF" points="44.9263158 0 20.5420096 76 12.9263158 70.1018443 35.4181818 0"></polygon>
+        </g>
+    </g>
+</svg>

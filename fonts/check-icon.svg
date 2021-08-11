@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 12 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-14.6%" y="-10.4%" width="129.2%" height="129.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.542685688   0 0 0 0 0.542685688   0 0 0 0 0.542685688  0 0 0 0.319984703 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Sell-Car" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Sell-car-Cover-photo" transform="translate(-19.000000, -641.000000)">
+            <g id="Group-12-Copy-2" transform="translate(23.000000, 643.000000)">
+                <g id="Group-12-Copy">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="UI/Icons/Right-mark" transform="translate(12.000000, 12.000000)">
+                        <rect id="Rectangle-2" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+                        <polygon id="Shape" fill="#2176AE" points="4 12.0650029 5.575 10.5559692 9.625 14.4363415 18.175 6.24444444 19.75 7.75347812 9.625 17.4544089"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
